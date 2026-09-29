@@ -6,10 +6,6 @@
 
 **ART-RAN** stands for **Adversarial Reasoning Threats in Radio Access Networks**. It is a threat-analysis and reproducibility framework for studying how adversarial compromise of agentic Non-RT O-RAN rApps can propagate through downstream Near-RT control and affect RAN-level QoS.
 
-> **Paper:** *ART-RAN: Exposing Adversarial Vulnerabilities in Agentic O-RAN rApps*  
-> **Authors:** Yared Abera Ergu, Van-Linh Nguyen, Po-Ching Lin, and Ren-Hung Hwang  
-> **Target venue:** IEEE ICC 2027
-
 ## ART-RAN Architecture
 
 <img width="1376" height="451" alt="model-architecture" src="https://github.com/user-attachments/assets/ce022dab-0a91-4ff0-ba6e-8a5263410202" />
