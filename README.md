@@ -10,10 +10,17 @@
 > **Authors:** Yared Abera Ergu, Van-Linh Nguyen, Po-Ching Lin, and Ren-Hung Hwang  
 > **Target venue:** IEEE ICC 2027
 
+## ART-RAN Architecture
+
 <p align="center">
-  <img src="docs/figures/art-ran-architectu<img width="1376" height="451" alt="model-architecture" />
+  <img src="docs/figures/art-ran-architecture.png"
+       alt="ART-RAN architecture"
+       width="100%">
 </p>
 
+<p align="center">
+  <em>ART-RAN threat-analysis architecture for adversarial agentic O-RAN rApps and downstream Near-RT control.</em>
+</p>
 
 
 ## Overview
