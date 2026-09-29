@@ -1,0 +1,115 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+art-ran-v062-gpu/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Raw / prepared data
+data/
+prepared/
+prepared_*/
+*.parquet
+
+# Models and large generated artifacts
+*.joblib
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.npz
+*.npy
+*.zip
+*.tar
+*.tar.gz
+
+# Training logs and transient runs
+runs/
+logs/
+tensorboard/
+wandb/
+
+# Temporary / local files
+*.tmp
+*.bak
+*.swp
+.env
+.env.*
+
+# Keep lightweight release outputs under results/
+!results/
+!results/**
+
+# Keep documentation figures
+!docs/figures/
+!docs/figures/**
+
+# Local Python environments
+art-ran-gpu/
+art-ran-v062-gpu/
+venv/
+.venv/
+env/
+
+# ART-RAN release-builder package
+ART-RAN_GitHub_package/
+ART-RAN_GitHub_package.zip
+
+# Local prepared datasets / learned models
+prepared_v062/
+prepared_v062_old/
+*.parquet
+*.joblib
+
+# Raw COMMAG data
+data/
+
+# Training artifacts and checkpoints
+runs/
+*.zip
+*.pth
+*.pt
+*.ckpt
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local/editor files
+.vscode/
+.idea/
+.DS_Store
+
+data/
+runs/
+prepared/
+prepared_v062/
+prepared_v062_old/
+art-ran-gpu/
+art-ran-v062-gpu/
+*.parquet
+*.joblib
+*.pkl
+*.pt
+*.pth
+*.ckpt
+__pycache__/
+*.pyc

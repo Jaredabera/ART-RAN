@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use ART-RAN, please cite this software and the accompanying paper."
+title: "ART-RAN: Exposing Adversarial Vulnerabilities in Agentic O-RAN rApps"
+type: software
+authors:
+  - family-names: "Ergu"
+    given-names: "Yared Abera"
+  - family-names: "Nguyen"
+    given-names: "Van-Linh"
+  - family-names: "Lin"
+    given-names: "Po-Ching"
+  - family-names: "Hwang"
+    given-names: "Ren-Hung"
+repository-code: "https://github.com/Jaredabera/ART-RAN"
+url: "https://github.com/Jaredabera/ART-RAN"
+license: MIT
+version: "0.1.0"
+date-released: "2026-09-29"
+keywords:
+  - O-RAN
+  - rApp
+  - agentic AI
+  - adversarial machine learning
+  - reinforcement learning
+  - MaskablePPO
+  - COMMAG
+  - RAN security

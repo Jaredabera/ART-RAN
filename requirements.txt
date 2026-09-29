@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+joblib
+pyarrow
+gymnasium
+stable-baselines3
+sb3-contrib
+torch
+matplotlib
