@@ -11,7 +11,8 @@
 > **Target venue:** IEEE ICC 2027
 
 <p align="center">
-  <img src="docs/figures/art-ran-architecture.png" width="92%" alt="ART-RAN architecture">
+  <img src="docs/figures/art-ran-architectu<img width="1376" height="451" alt="model-architecture" src="https://github.com/user-attachments/assets/a6361404-6f3c-4f09-8846-ac6a78c9c8b7" />
+re.png" width="92%" alt="ART-RAN architecture">
 </p>
 
 > Add the final paper architecture figure as `docs/figures/art-ran-architecture.png`.
