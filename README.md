@@ -12,11 +12,7 @@
 
 ## ART-RAN Architecture
 
-<p align="center">
-  <img src="docs/figures/art-ran-architecture.png"
-       alt="ART-RAN architecture"
-       width="100%">
-</p>
+<img width="1376" height="451" alt="model-architecture" src="https://github.com/user-attachments/assets/ce022dab-0a91-4ff0-ba6e-8a5263410202" />
 
 <p align="center">
   <em>ART-RAN threat-analysis architecture for adversarial agentic O-RAN rApps and downstream Near-RT control.</em>
