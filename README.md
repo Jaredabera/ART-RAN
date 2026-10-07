@@ -156,7 +156,7 @@ If you use ART-RAN, please cite the repository and the accompanying paper when a
 
 ```bibtex
 @misc{ergu2027artran,
-  title        = {ART-RAN: Exposing Adversarial Vulnerabilities in Agentic O-RAN rApps},
+  title        = {ART-RAN: Chained Agentic Context Corruption Against DRL Resource Allocation in O-RAN},
   author       = {Ergu, Yared Abera and Nguyen, Van-Linh and Lin, Po-Ching and Hwang, Ren-Hung},
   year         = {2027},
   howpublished = {GitHub repository},
